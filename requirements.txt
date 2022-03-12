@@ -29,7 +29,7 @@ netaddr==0.7.19
 numpy==1.18.1
 opencv-python==4.1.2.30
 parsimonious==0.8.1
-Pillow==7.0.0
+Pillow==9.0.1
 pkg-resources==0.0.0
 protobuf==3.11.2
 py-solc==3.2.0
